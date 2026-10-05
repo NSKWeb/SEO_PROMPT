@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 400" width="1240" height="400" role="img" aria-labelledby="t3 d3">
+<title id="t3">Projects using the SEO toolkit</title>
+<desc id="d3">Three NSKWeb projects have adopted the toolkit: PressFolio (the origin), pdftoolshub, and legal-page-generator. Each lists the SEO artifacts it shipped.</desc>
+  <rect width="1240" height="400" fill="#f3eddd"/>
+  <rect x="0" y="0" width="1240" height="8" fill="#18140d"/>
+  <text x="48" y="72" font-family="'SFMono-Regular', Consolas, monospace" font-size="16" letter-spacing="4" fill="#c8402a">SEO_PROMPT · ADOPTION</text>
+  <text x="48" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#18140d">Where it’s been applied</text>
+  <text x="48" y="152" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#6f6653">The toolkit is reusable across static sites, SSR apps, and SPAs.</text>
+  <line x1="48" y1="174" x2="1192" y2="174" stroke="#18140d" stroke-width="2"/>
+
+  <rect x="54.0" y="214" width="366.6666666666667" height="150" fill="#18140d"/>
+  <rect x="48.0" y="208" width="366.6666666666667" height="150" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="48.0" y="208" width="8" height="150" fill="#274a86"/>
+  <text x="76.0" y="248" font-family="'SFMono-Regular', Consolas, monospace" font-size="20" font-weight="700" fill="#18140d">pressfolio</text>
+  <text x="76.0" y="272" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#274a86">Astro · origin</text>
+  <circle cx="80.0" cy="296" r="3.5" fill="#274a86"/>
+  <text x="94.0" y="301" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">robots.txt + dynamic sitemap</text>
+  <circle cx="80.0" cy="320" r="3.5" fill="#274a86"/>
+  <text x="94.0" y="325" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">5 JSON-LD schema types</text>
+  <circle cx="80.0" cy="344" r="3.5" fill="#274a86"/>
+  <text x="94.0" y="349" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">SEO_AUDIT.md + SEO_STRATEGY.md</text>
+  <rect x="442.6666666666667" y="214" width="366.6666666666667" height="150" fill="#18140d"/>
+  <rect x="436.6666666666667" y="208" width="366.6666666666667" height="150" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="436.6666666666667" y="208" width="8" height="150" fill="#c8402a"/>
+  <text x="464.6666666666667" y="248" font-family="'SFMono-Regular', Consolas, monospace" font-size="20" font-weight="700" fill="#18140d">pdftoolshub</text>
+  <text x="464.6666666666667" y="272" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#c8402a">Next.js 15 · SSG</text>
+  <circle cx="468.6666666666667" cy="296" r="3.5" fill="#c8402a"/>
+  <text x="482.6666666666667" y="301" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">robots.ts + sitemap.ts (26 tools)</text>
+  <circle cx="468.6666666666667" cy="320" r="3.5" fill="#c8402a"/>
+  <text x="482.6666666666667" y="325" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">Organization / WebSite / SoftwareApplication</text>
+  <circle cx="468.6666666666667" cy="344" r="3.5" fill="#c8402a"/>
+  <text x="482.6666666666667" y="349" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">opt-in GA4 + security headers</text>
+  <rect x="831.3333333333334" y="214" width="366.6666666666667" height="150" fill="#18140d"/>
+  <rect x="825.3333333333334" y="208" width="366.6666666666667" height="150" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="825.3333333333334" y="208" width="8" height="150" fill="#5c6a34"/>
+  <text x="853.3333333333334" y="248" font-family="'SFMono-Regular', Consolas, monospace" font-size="20" font-weight="700" fill="#18140d">legal-page-generator</text>
+  <text x="853.3333333333334" y="272" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#5c6a34">React + Vite · SPA</text>
+  <circle cx="857.3333333333334" cy="296" r="3.5" fill="#5c6a34"/>
+  <text x="871.3333333333334" y="301" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">robots.txt + sitemap.xml</text>
+  <circle cx="857.3333333333334" cy="320" r="3.5" fill="#5c6a34"/>
+  <text x="871.3333333333334" y="325" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">WebApplication / FAQ / HowTo / Breadcrumb</text>
+  <circle cx="857.3333333333334" cy="344" r="3.5" fill="#5c6a34"/>
+  <text x="871.3333333333334" y="349" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#6f6653">OG + Twitter + canonical</text>
+</svg>

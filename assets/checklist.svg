@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 660" width="1240" height="660" role="img" aria-labelledby="t2 d2">
+<title id="t2">The SEO checklist at a glance</title>
+<desc id="d2">Five categories of checks: technical foundation, on-page SEO, content and E-E-A-T, off-page authority, and accounts and measurement. Each lists the concrete items an audit verifies.</desc>
+  <rect width="1240" height="660" fill="#f3eddd"/>
+  <rect x="0" y="0" width="1240" height="8" fill="#18140d"/>
+  <text x="48" y="72" font-family="'SFMono-Regular', Consolas, monospace" font-size="16" letter-spacing="4" fill="#c8402a">SEO_PROMPT · CHECKLIST</text>
+  <text x="48" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#18140d">The checklist at a glance</text>
+  <text x="48" y="152" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#6f6653">Five categories — every item is verifiable in the repo.</text>
+  <line x1="48" y1="174" x2="1192" y2="174" stroke="#18140d" stroke-width="2"/>
+
+  <rect x="54.0" y="216" width="214.4" height="400" fill="#18140d"/>
+  <rect x="48.0" y="210" width="214.4" height="400" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="48.0" y="210" width="214.4" height="52" fill="#274a86"/>
+  <text x="155.2" y="244" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#fdfaf0">TECHNICAL</text>
+  <rect x="66.0" y="284" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 293 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="298" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Correct HTTP status</text>
+  <text x="94.0" y="315" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">codes</text>
+  <rect x="66.0" y="328" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 337 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="342" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Crawlable (no stray</text>
+  <text x="94.0" y="359" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">noindex)</text>
+  <rect x="66.0" y="372" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 381 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="386" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Valid robots.txt +</text>
+  <text x="94.0" y="403" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">sitemap</text>
+  <rect x="66.0" y="416" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 425 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="430" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">HTTPS everywhere</text>
+  <rect x="66.0" y="460" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 469 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="474" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Mobile-first layout</text>
+  <rect x="66.0" y="504" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 513 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="518" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Core Web Vitals</text>
+  <text x="94.0" y="535" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">(LCP/INP/CLS)</text>
+  <rect x="66.0" y="548" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 70.0 557 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="94.0" y="562" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Canonical tags,</text>
+  <text x="94.0" y="579" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">clean URLs</text>
+  <rect x="286.4" y="216" width="214.4" height="400" fill="#18140d"/>
+  <rect x="280.4" y="210" width="214.4" height="400" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="280.4" y="210" width="214.4" height="52" fill="#c8402a"/>
+  <text x="387.59999999999997" y="244" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#fdfaf0">ON-PAGE</text>
+  <rect x="298.4" y="284" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 293 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="298" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Unique title (50–60</text>
+  <text x="326.4" y="315" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">chars)</text>
+  <rect x="298.4" y="328" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 337 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="342" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Meta description</text>
+  <text x="326.4" y="359" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">(150–160)</text>
+  <rect x="298.4" y="372" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 381 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="386" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">One H1, logical</text>
+  <text x="326.4" y="403" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">headings</text>
+  <rect x="298.4" y="416" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 425 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="430" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Open Graph + Twitter</text>
+  <text x="326.4" y="447" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">card</text>
+  <rect x="298.4" y="460" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 469 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="474" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">JSON-LD structured</text>
+  <text x="326.4" y="491" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">data</text>
+  <rect x="298.4" y="504" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 513 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="518" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Descriptive image</text>
+  <text x="326.4" y="535" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">alt text</text>
+  <rect x="298.4" y="548" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 302.4 557 l 5 6 l 9 -12" fill="none" stroke="#c8402a" stroke-width="3" stroke-linecap="round"/>
+  <text x="326.4" y="562" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Internal links</text>
+  <rect x="518.8" y="216" width="214.4" height="400" fill="#18140d"/>
+  <rect x="512.8" y="210" width="214.4" height="400" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="512.8" y="210" width="214.4" height="52" fill="#5c6a34"/>
+  <text x="620.0" y="244" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#fdfaf0">CONTENT / E-E-A-T</text>
+  <rect x="530.8" y="284" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 293 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="298" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">About + contact info</text>
+  <rect x="530.8" y="328" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 337 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="342" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Author bios &amp;</text>
+  <text x="558.8" y="359" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">credentials</text>
+  <rect x="530.8" y="372" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 381 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="386" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Published + updated</text>
+  <text x="558.8" y="403" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">dates</text>
+  <rect x="530.8" y="416" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 425 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="430" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Cited sources</text>
+  <rect x="530.8" y="460" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 469 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="474" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Topical depth</text>
+  <rect x="530.8" y="504" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 513 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="518" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">No thin/duplicate</text>
+  <text x="558.8" y="535" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">content</text>
+  <rect x="530.8" y="548" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 534.8 557 l 5 6 l 9 -12" fill="none" stroke="#5c6a34" stroke-width="3" stroke-linecap="round"/>
+  <text x="558.8" y="562" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Search-intent match</text>
+  <rect x="751.2" y="216" width="214.4" height="400" fill="#18140d"/>
+  <rect x="745.2" y="210" width="214.4" height="400" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="745.2" y="210" width="214.4" height="52" fill="#274a86"/>
+  <text x="852.4000000000001" y="244" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#fdfaf0">OFF-PAGE</text>
+  <rect x="763.2" y="284" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 293 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="298" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Backlink strategy</text>
+  <rect x="763.2" y="328" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 337 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="342" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Relevant directories</text>
+  <rect x="763.2" y="372" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 381 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="386" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Partnerships &amp;</text>
+  <text x="791.2" y="403" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">PR</text>
+  <rect x="763.2" y="416" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 425 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="430" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Link-earning content</text>
+  <rect x="763.2" y="460" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 469 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="474" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Avoid link farms</text>
+  <rect x="763.2" y="504" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 513 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="518" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Consistent brand /</text>
+  <text x="791.2" y="535" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">NAP</text>
+  <rect x="763.2" y="548" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 767.2 557 l 5 6 l 9 -12" fill="none" stroke="#274a86" stroke-width="3" stroke-linecap="round"/>
+  <text x="791.2" y="562" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Social profiles</text>
+  <rect x="983.6" y="216" width="214.4" height="400" fill="#18140d"/>
+  <rect x="977.6" y="210" width="214.4" height="400" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="977.6" y="210" width="214.4" height="52" fill="#18140d"/>
+  <text x="1084.8" y="244" text-anchor="middle" font-family="'SFMono-Regular', Consolas, monospace" font-size="15" letter-spacing="1.5" fill="#fdfaf0">MEASUREMENT</text>
+  <rect x="995.6" y="284" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 293 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="298" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Google Search</text>
+  <text x="1023.6" y="315" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Console</text>
+  <rect x="995.6" y="328" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 337 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="342" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">GA4 (opt-in only)</text>
+  <rect x="995.6" y="372" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 381 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="386" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Bing Webmaster Tools</text>
+  <rect x="995.6" y="416" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 425 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="430" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Google Business</text>
+  <text x="1023.6" y="447" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Profile</text>
+  <rect x="995.6" y="460" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 469 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="474" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Sitemap submitted</text>
+  <rect x="995.6" y="504" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 513 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="518" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Coverage monitored</text>
+  <rect x="995.6" y="548" width="18" height="18" fill="none" stroke="#18140d" stroke-width="2"/>
+  <path d="M 999.6 557 l 5 6 l 9 -12" fill="none" stroke="#18140d" stroke-width="3" stroke-linecap="round"/>
+  <text x="1023.6" y="562" font-family="'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#18140d">Env-gated keys</text>
+  <text x="620.0" y="634" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#6f6653">Report each item as <tspan font-family="'SFMono-Regular', Consolas, monospace" fill="#18140d">pass / fail / missing</tspan> with evidence.</text>
+</svg>

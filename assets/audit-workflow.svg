@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 560" width="1240" height="560" role="img" aria-labelledby="t d">
+<title id="t">The 7-step SEO audit workflow</title>
+<desc id="d">A left-to-right pipeline: discover the stack, verify the technical foundation, fix on-page SEO, build content and E-E-A-T, plan off-page authority, set up measurement, then ship deliverables as an audit, implementation, verification, and a pull request.</desc>
+  <rect width="1240" height="560" fill="#f3eddd"/>
+  <rect x="0" y="0" width="1240" height="8" fill="#18140d"/>
+  <text x="48" y="72" font-family="'SFMono-Regular', Consolas, monospace" font-size="16" letter-spacing="4" fill="#c8402a">SEO_PROMPT · WORKFLOW</text>
+  <text x="48" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700" fill="#18140d">The 7-step audit pipeline</text>
+  <text x="48" y="152" font-family="'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#6f6653">Stack-agnostic. Discover first, then fix — never guess.</text>
+  <line x1="48" y1="174" x2="1192" y2="174" stroke="#18140d" stroke-width="2"/>
+
+  <rect x="54.0" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="48.0" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="48.0" y="220" width="149.71428571428572" height="10" fill="#274a86"/>
+  <text x="70.0" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#274a86">01</text>
+  <text x="70.0" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">Discover</text>
+  <text x="70.0" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">Inspect framework,</text>
+  <text x="70.0" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">rendering, routes,<br/>domain, existing SEO</text>
+  <path d="M 199.71428571428572 345.0 l 12 0" stroke="#18140d" stroke-width="3"/>
+  <path d="M 207.71428571428572 338.0 l 8 7 l -8 7 z" fill="#18140d"/>
+  <rect x="219.71428571428572" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="213.71428571428572" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="213.71428571428572" y="220" width="149.71428571428572" height="10" fill="#18140d"/>
+  <text x="235.71428571428572" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#18140d">02</text>
+  <text x="235.71428571428572" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">Foundation</text>
+  <text x="235.71428571428572" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">Status codes, robots.txt,</text>
+  <text x="235.71428571428572" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">sitemap, HTTPS,<br/>canonical, Core Web Vitals</text>
+  <path d="M 365.42857142857144 345.0 l 12 0" stroke="#18140d" stroke-width="3"/>
+  <path d="M 373.42857142857144 338.0 l 8 7 l -8 7 z" fill="#18140d"/>
+  <rect x="385.42857142857144" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="379.42857142857144" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="379.42857142857144" y="220" width="149.71428571428572" height="10" fill="#c8402a"/>
+  <text x="401.42857142857144" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#c8402a">03</text>
+  <text x="401.42857142857144" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">On-page</text>
+  <text x="401.42857142857144" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">Titles, meta descriptions,</text>
+  <text x="401.42857142857144" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">H1, Open Graph,<br/>JSON-LD, image alt</text>
+  <path d="M 531.1428571428571 345.0 l 12 0" stroke="#18140d" stroke-width="3"/>
+  <path d="M 539.1428571428571 338.0 l 8 7 l -8 7 z" fill="#18140d"/>
+  <rect x="551.1428571428571" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="545.1428571428571" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="545.1428571428571" y="220" width="149.71428571428572" height="10" fill="#5c6a34"/>
+  <text x="567.1428571428571" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#5c6a34">04</text>
+  <text x="567.1428571428571" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">Content</text>
+  <text x="567.1428571428571" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">About &amp; contact,</text>
+  <text x="567.1428571428571" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">author identity, dates,<br/>topical depth (E-E-A-T)</text>
+  <path d="M 696.8571428571429 345.0 l 12 0" stroke="#18140d" stroke-width="3"/>
+  <path d="M 704.8571428571429 338.0 l 8 7 l -8 7 z" fill="#18140d"/>
+  <rect x="716.8571428571429" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="710.8571428571429" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="710.8571428571429" y="220" width="149.71428571428572" height="10" fill="#274a86"/>
+  <text x="732.8571428571429" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#274a86">05</text>
+  <text x="732.8571428571429" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">Off-page</text>
+  <text x="732.8571428571429" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">Backlink strategy,</text>
+  <text x="732.8571428571429" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">brand consistency,<br/>penalty avoidance</text>
+  <path d="M 862.5714285714287 345.0 l 12 0" stroke="#18140d" stroke-width="3"/>
+  <path d="M 870.5714285714287 338.0 l 8 7 l -8 7 z" fill="#18140d"/>
+  <rect x="882.5714285714287" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="876.5714285714287" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="876.5714285714287" y="220" width="149.71428571428572" height="10" fill="#18140d"/>
+  <text x="898.5714285714287" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#18140d">06</text>
+  <text x="898.5714285714287" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">Measure</text>
+  <text x="898.5714285714287" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">Search Console,</text>
+  <text x="898.5714285714287" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">GA4 (opt-in),<br/>Bing Webmaster</text>
+  <path d="M 1028.2857142857144 345.0 l 12 0" stroke="#18140d" stroke-width="3"/>
+  <path d="M 1036.2857142857144 338.0 l 8 7 l -8 7 z" fill="#18140d"/>
+  <rect x="1048.2857142857142" y="226" width="149.71428571428572" height="250" fill="#18140d"/>
+  <rect x="1042.2857142857142" y="220" width="149.71428571428572" height="250" fill="#fdfaf0" stroke="#18140d" stroke-width="2.5"/>
+
+  <rect x="1042.2857142857142" y="220" width="149.71428571428572" height="10" fill="#c8402a"/>
+  <text x="1064.2857142857142" y="282" font-family="'SFMono-Regular', Consolas, monospace" font-size="30" font-weight="700" fill="#c8402a">07</text>
+  <text x="1064.2857142857142" y="316" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#18140d">Deliver</text>
+  <text x="1064.2857142857142" y="350" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">Audit table, fixes,</text>
+  <text x="1064.2857142857142" y="374" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14.5" fill="#6f6653">build/lint/tests,<br/>one focused PR</text>
+  <text x="620.0" y="528" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#6f6653">Every finding cites <tspan font-family="'SFMono-Regular', Consolas, monospace" fill="#18140d">file:line</tspan> evidence — no invented metrics or rankings.</text>
+</svg>
