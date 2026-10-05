@@ -82,14 +82,14 @@ Then tell the agent:
 ## 🌍 Where it’s been applied
 
 <p align="center">
-  <img src="assets/adoption.svg" alt="Three projects that use the toolkit: PressFolio (Astro), pdftoolshub (Next.js 15), and legal-page-generator (React plus Vite)" width="1240" />
+  <img src="assets/adoption.svg" alt="Three projects that use the toolkit: PressFolio (Astro), pdftoolshub (Next.js 15), and legal-page-generator (React plus Vite, prerendered to static HTML)" width="1240" />
 </p>
 
 | Project | Stack | What shipped |
 |---------|-------|--------------|
 | [**PressFolio**](https://github.com/NSKWeb/pressfolio) | Astro · origin | `robots.txt` + dynamic `sitemap.xml`, 5 JSON-LD schema types, `SEO_AUDIT.md` + `SEO_STRATEGY.md` |
 | [**pdftoolshub**](https://github.com/NSKWeb/pdftoolshub) | Next.js 15 · SSG | `robots.ts` + `sitemap.ts` for 26 tools, Organization/WebSite/SoftwareApplication JSON-LD, opt-in GA4, security headers |
-| [**legal-page-generator**](https://github.com/NSKWeb/legal-page-generator) | React + Vite · SPA | `robots.txt` + `sitemap.xml`, WebApplication/FAQPage/HowTo/BreadcrumbList JSON-LD, Open Graph + Twitter + canonical |
+| [**legal-page-generator**](https://github.com/NSKWeb/legal-page-generator) | React + Vite · prerendered (SSG) | Build-time prerender (`entry-server.jsx` + `prerender.mjs`) with client hydration, real 1200×630 `og-image.png`, `robots.txt` + `sitemap.xml`, WebApplication/FAQPage/HowTo/BreadcrumbList JSON-LD, Open Graph + Twitter + canonical |
 
 ## 🔣 Placeholders
 
